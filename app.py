@@ -10,6 +10,7 @@ Run with:
 """
 
 import traceback
+import os
 
 import gradio as gr
 from openai import (
